@@ -1,5 +1,3 @@
 files:
-  - source: /*
-    translation: /%two_letters_code%/%locale%/%file_extension%
   - source: /README.md
     translation: /folder/%two_letters_code%
