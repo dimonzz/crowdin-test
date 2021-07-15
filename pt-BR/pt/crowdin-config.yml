@@ -1,5 +1,8 @@
 ---
 files:
   - 
+    source: /fofoler/
+    translation: /%two_letters_code%/
+  - 
     source: '*'
-    translation: /l10n/%two_letters_code%/%file_name%
+    translation: '%two_letters_code%/%original_file_name%'
